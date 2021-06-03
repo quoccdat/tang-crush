@@ -10,7 +10,7 @@ const CONFIG = {
     btnReply: 'Gửi cho anh',
     reply: 'Tại Vì em muốn bị bầm dập ạ :))))',
     mess: 'Anh biết mà :))',
-    messDesc: 'Chúc bae mệt vui vẻ :) ',
+    messDesc: 'Chúc bae mệt vui vẻ :)  ',
     btnAccept: 'Bai ',
     messLink: 'https://www.facebook.com/quoccdat/'
 }
